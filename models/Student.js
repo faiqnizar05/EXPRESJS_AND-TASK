@@ -70,7 +70,7 @@ static find(id) {
       });
   });
 }
-// kode lain setelahnya
+
 
 
 // kode lain sebelumnya
